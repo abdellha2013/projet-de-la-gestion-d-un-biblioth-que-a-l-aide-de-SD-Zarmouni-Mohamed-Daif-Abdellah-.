@@ -1,0 +1,12 @@
+fin_test daif 2005 736352 15
+30 Albert_Camus 1947 978 -2070360420
+La_Peste Albert_Camus 1947 978 -2070360420
+987 50 1943 978 -56331
+Le_Petit_Prince Antoine_de_Saint-Exupery 1943 978 -56331
+935 100 1949 978 -152404
+1984 George_Orwell 1949 978 -152404
+MFB abdellah 2005 12345 10
+fin mohammed 2004 5242 15
+test fatima 1999 625363 25
+teststts fatima 1999 625253 17
+qune mohamed 2007 55555 18
